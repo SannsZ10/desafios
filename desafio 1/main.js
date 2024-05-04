@@ -8,3 +8,5 @@ const costoTotal = PrecioUnitario * CantidadDeseada
 
 alert(`usted compro ${CantidadDeseada} de ${NombreProducto} a un precio de $${costoTotal}`)
 
+
+
